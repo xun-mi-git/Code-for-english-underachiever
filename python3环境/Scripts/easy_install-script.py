@@ -1,4 +1,4 @@
-#!I:\我的大学\项目代码\英语差生也能敲代码\pychan3.8环境\Scripts\python.exe -x
+#!D:\项目代码\Code-for-english-underachiever\python3环境\Scripts\python.exe -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re
