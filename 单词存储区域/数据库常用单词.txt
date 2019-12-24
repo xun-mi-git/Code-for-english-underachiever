@@ -1,0 +1,33 @@
+==常用数据库已经数据引擎==2
+mysql - 数据库
+==SQL语句中DDL（数据定义）使用单词==1
+select - 选择，用于输出时间、版本和查看正在使用的数据库
+show - 显示，显示所有数据库或表
+create - 创建，创建数据库或表
+use - 使用，使用数据库
+drop - 删除，删除数据库或表
+desc - 描述, 查看表中的信息
+alter - 修改， 添加字段
+modify - 修改，修改字段内容
+change - 改变，修改字段名称和内容
+database - 数据库
+table	 - 表
+==SQL语句中DML（数据操作）使用单词==1
+insert - 插入，数据库增加数据
+into - 向，数据库增加数据指定目标表
+values - 值，数据库增加数据指定值
+from - 从，数据库查询指定表
+as - 作为，起别名
+distinct - 分离，查询数据库去重
+where - 哪里，条件查询
+rlike - 使用正则表达式
+between … and … - 在…还有… ，连续范围查找
+group by - 分组依据，在分组的时候使用
+group_concat - 分组后的组内信息
+having - 对分组后的数据筛选
+order by - 排序，从大到小desc
+inner join … on - 内部连接…在 ，内连接两个数据表时使用，将inner替换为（left ，right）为左右连接
+
+==其他==3
+
+
